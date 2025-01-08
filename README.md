@@ -1,10 +1,10 @@
 # project-machine-learning
-Projeto de Machine Learning.
+Machine Learning Project.
 
-Etapas:
-1. Treinamento do modelo
-2. CI/CD 
-3. Orquestração de processos
-4. Gerenciamento de artefatos
-5. Observabilidade
-6. Escalabilidade
+Steps:
+Model training
+CI/CD
+Process orchestration
+Artifact management
+Observability
+Scalability

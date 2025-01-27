@@ -1,6 +1,8 @@
 # project-machine-learning
 Machine Learning Project.
 
+Databases escolhidos:
+
 Steps:
 1. Model training
 3. CI/CD
